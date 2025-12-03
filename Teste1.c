@@ -56,7 +56,7 @@ int main() {
 void cabecalho() {
     // Aqui entra o requisito de "melhorar a aparência" 
     printf("========================================\n");
-    printf("   SISTEMA DE ESTOQUE - UNB LIVROS      \n");
+    printf("   SISTEMA DE ESTOQUE - LIVROS UNB      \n");
     printf("========================================\n");
     printf("      ___   _      _                    \n");
     printf("     / _ \\ | |    | |                   \n");
@@ -98,4 +98,4 @@ void listar(struct Produto estoque[], int total) {
             estoque[i].preco);
     }
     printf("----------------------------------------\n");
-}
+}1
